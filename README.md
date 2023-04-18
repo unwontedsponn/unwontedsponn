@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @unwontedSponn
-- 👀 I’m interested in - music, spanish and software development
-- 🌱 I’m currently learning - web development
-- 💞️ I’m looking to collaborate on - an e magazine
-- 📫 How to reach me - benpaulspooner@gmail.com || Sponn#7304 on DISCORD.
+- 👋 Hi, I’m Ben
+- 👀 I’m interested in - music, spanish, reading and tech
+- 🌱 I’m currently learning - data science and web development
+- 💞️ I’m looking to collaborate on - interesting projects
+- 📫 How to reach me - benpaulspooner@gmail.com
 
 <!---
 unwontedSponn/unwontedSponn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

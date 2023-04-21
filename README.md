@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in - music, spanish, reading and tech
-- 🌱 I’m currently learning - data science and web development
+- 👀 I’m an aspiring full stack developer looking for my first opportunity in the tech industry
+- 🌱 My main tech stack is HTML, CSS, Javascript, Python, and Python libraries. I’m currently learning typescript and react
 - 💞️ I’m looking to collaborate on - interesting projects
 - 📫 How to reach me - benpaulspooner@gmail.com
 

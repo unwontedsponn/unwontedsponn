@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on - interesting projects
 - 📫 How to reach me - benpaulspooner@gmail.com
 
+My 'unwontedsponn.github.io' repository contains:
+- My personal website
+- A retro game arcade
+- A digital piano education book
+
 <!---
 unwontedSponn/unwontedSponn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

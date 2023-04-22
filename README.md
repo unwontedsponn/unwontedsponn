@@ -4,10 +4,14 @@
 - 💞️ I’m looking to collaborate on - interesting projects
 - 📫 How to reach me - benpaulspooner@gmail.com
 
-My 'unwontedsponn.github.io' repository contains:
-- My personal website
-- A retro game arcade
-- A digital piano education book
+REPOSITORIES:
+- 'unwontedsponn.github.io' repository contains:
+  - My personal website
+  - A retro game arcade
+  - A digital piano education book
+- 'hyperiondev' repository contains:
+  - A collection of python programs completed while studying a Data Science bootcamp.
+  - Includes machine learning models, NLP
 
 <!---
 unwontedSponn/unwontedSponn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

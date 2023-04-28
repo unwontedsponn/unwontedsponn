@@ -9,7 +9,7 @@ REPOSITORIES:
   - personalWebsite
   - gameArcade
   - pianoBook
-- 'hyperiondev' repository contains:
+- 'Software-engineering-and-data-science-bootcamp' repository contains:
   - A collection of python programs completed while studying a Data Science bootcamp.
   - Includes machine learning models, NLP
 

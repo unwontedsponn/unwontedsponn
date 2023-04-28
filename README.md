@@ -6,9 +6,9 @@
 
 REPOSITORIES:
 - 'unwontedsponn.github.io' repository is my personal website hosted on github pages, and it contains the code for the following repositories:
-  - My personal website
-  - A retro game arcade
-  - A digital piano education book
+  - personalWebsite
+  - gameArcade
+  - pianoBook
 - 'hyperiondev' repository contains:
   - A collection of python programs completed while studying a Data Science bootcamp.
   - Includes machine learning models, NLP

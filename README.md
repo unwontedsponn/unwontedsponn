@@ -5,7 +5,7 @@
 - 📫 How to reach me - benpaulspooner@gmail.com
 
 REPOSITORIES:
-- 'unwontedsponn.github.io' repository contains:
+- 'unwontedsponn.github.io' repository is my personal website hosted on github pages, and it contains the code for the following repositories:
   - My personal website
   - A retro game arcade
   - A digital piano education book

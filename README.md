@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben
 - 👀 I’m a self-taught, aspiring full stack developer looking for my first opportunity in the tech industry
 - 🌱 My main tech stack is Html, Css, Javascript, Python, and data science Python libraries.
-- 💞️ I’m currently learning typescript and react and creating my next project.
+- 💞️ I’m currently learning typescript and react in order to create my next project.
 - 📫 How to reach me - benpaulspooner@gmail.com
 
 REPOSITORIES:

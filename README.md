@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ben
-- 👀 I’m a self-taught developer
-- 🌱 My main tech stack is Html, Css, Javascript
-- 💞️ I’m currently learning test driven development using JEST
-- 📫 How to reach me - benpaulspooner@gmail.com
+Hi, I’m Ben
+I’m a self-taught developer
+mainTechStack: Html, Css, Javascript,
+currently learning Typescript, C++ and test driven development
+benpaulspooner@gmail.com
 
 REPOSITORIES:
 - 'unwontedsponn.github.io' repository is my personal website hosted on github pages

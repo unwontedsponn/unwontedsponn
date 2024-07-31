@@ -1,4 +1,3 @@
-- Hi, I’m Ben
-- I’m a self-taught developer
-- mainTechStack: Next.JS, Tailwind CSS & Vercel
+Hi, I’m Ben
+...a self-taught JS/TS full-stack developer
 - benpaulspooner@gmail.com

@@ -1,2 +1,3 @@
 Hi, I’m Ben
-...a JavaScript & TypeScript developer
+...a TypeScript/JavaScript developer
+....specialising in NextJS
